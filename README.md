@@ -43,4 +43,8 @@
 4. ​**测试验证流程**
     - [沙盒环境测试](docs/testing/sandbox-testing.md)
     - [正式环境验证](docs/testing/production-check.md)
-    - [常见错误排查](docs/testing/troubleshooting.md)  
+    - [常见错误排查](docs/testing/troubleshooting.md)
+  
+
+⚠️ ​**暂停更新**  
+因为上线后没有任何迭代，所以感觉没什么好写的了，如果有问题大家可以留言提问，看到会第一时间回复
